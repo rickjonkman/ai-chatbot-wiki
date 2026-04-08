@@ -1,3 +1,3 @@
 # ai-chatbot-wiki
 
-Initial repository scaffold.
+Project documentation is available in [documentation/README.md](documentation/README.md).
